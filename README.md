@@ -73,6 +73,9 @@ Target Label:
 Whether a person earns more or less than 50000 dollars per year.
 15.	Income:  >50K, <=50K.
 
+## Exploratory Data Analysis
+
+[EDA](EDA/IncomePredictionEDA.ipynb)
 # How run it?
 
 ### STEPS:
